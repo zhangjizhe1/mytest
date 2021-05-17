@@ -37,7 +37,7 @@
         <property name="configLocation" value="classpath:/sqlMapConfig.xml"></property>
         <property name="mapperLocations" value="classpath:/mappers/*.xml"></property>
     </bean>
-    <!-- MyBatis MapperBean扫描器，负责为MapperBean生成实现类 -->
+    <!-- MyBati sMapperBean扫描器，负责为MapperBean生成实现类 -->
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage" value="com.easymall.mapper"></property>
     </bean>
