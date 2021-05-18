@@ -29,8 +29,8 @@
         <value>sv2</value>
     </util:set>
     <util:map id="m1">
-        <entry key="mk1" value="mv1"></entry>
-        <entry key="mk2" value="mv2"></entry>
+        <entry key="mk1" value="mv1"/>
+        <entry key="mk2" value="mv2"/>
     </util:map>
     <util:properties id="p1">
         <prop key="pk1">pv1</prop>

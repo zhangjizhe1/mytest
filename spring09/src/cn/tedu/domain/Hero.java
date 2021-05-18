@@ -17,6 +17,8 @@ import java.util.Set;
 public class Hero {
     //--基本数据类型、String类型
     //@Value("亚瑟")
+    @Value("${name4}")
+    private String name1;
     @Value("${name}")
     private String name;
     //@Value("55")

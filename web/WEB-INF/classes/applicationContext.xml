@@ -27,24 +27,17 @@
 
     <!-- 配置数据源 -->
     <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
-        <property name="driverClass" value="com.mysql.jdbc.Driver">
-        </property>
-        <property name="jdbcUrl" value="jdbc:mysql:///easymall">
-        </property>
-        <property name="user" value="root">
-        </property>
-        <property name="password" value="root">
-        </property>
+        <property name="driverClass" value="com.mysql.jdbc.Driver"/>
+        <property name="jdbcUrl" value="jdbc:mysql:///easymall"/>
+        <property name="user" value="root"/>
+        <property name="password" value="root"/>
     </bean>
 
     <!-- 整合MyBatis -->
     <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
-        <property name="dataSource" ref="dataSource">
-        </property>
-        <property name="configLocation" value="classpath:/sqlMapConfig.xml">
-        </property>
-        <property name="mapperLocations" value="classpath:/mappers/*.xml">
-        </property>
+        <property name="dataSource" ref="dataSource"/>
+        <property name="configLocation" value="classpath:/sqlMapConfig.xml"/>
+        <property name="mapperLocations" value="classpath:/mappers/*.xml"/>
     </bean>
     <!-- MyBati sMapperBean扫描器，负责为MapperBean生成实现类 -->
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
@@ -54,8 +47,7 @@
 
     <!-- 配置事务管理器 -->
     <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
-        <property name="dataSource" ref="dataSource">
-        </property>
+        <property name="dataSource" ref="dataSource"/>
     </bean>
     <tx:annotation-driven/>
 
