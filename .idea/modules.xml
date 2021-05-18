@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01/spring01.iml" filepath="$PROJECT_DIR$/spring01/spring01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02/spring02.iml" filepath="$PROJECT_DIR$/spring02/spring02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring03/spring03.iml" filepath="$PROJECT_DIR$/spring03/spring03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04/spring04.iml" filepath="$PROJECT_DIR$/spring04/spring04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring05/spring05.iml" filepath="$PROJECT_DIR$/spring05/spring05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring06/spring06.iml" filepath="$PROJECT_DIR$/spring06/spring06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring07/spring07.iml" filepath="$PROJECT_DIR$/spring07/spring07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring08/spring08.iml" filepath="$PROJECT_DIR$/spring08/spring08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring09/spring09.iml" filepath="$PROJECT_DIR$/spring09/spring09.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmeasymall.iml" filepath="$PROJECT_DIR$/ssmeasymall.iml" />
     </modules>
   </component>

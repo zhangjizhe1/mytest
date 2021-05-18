@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--<bean id="person" class="cn.cn.tedu.domain.Person">
+    </bean>-->
+    <bean id="animal1" class="cn.cn.tedu.domain.Animal">
+    </bean>
+    <bean id="animal" class="cn.cn.tedu.domain.Animal">
+    </bean>
+    <bean id="second" class="cn.cn.tedu.domain.Second">
+    </bean>
+    <!--指定调用Person的有参构造来创建对象 -->
+    <!--<bean id="p" class="cn.cn.tedu.domain.Person">
+        &lt;!&ndash;
+            index:参数的索引 从0开始 0表示第一个参数
+            name:参数名称
+            type：参数类型
+            index name type 用于确定给哪个参数赋值的
+            value:参数值
+            ref: 除String以及包装类之外其他的引用数据类型赋值
+        &ndash;&gt;
+        &lt;!&ndash;<constructor-arg index="0" value="zhangsan">
+        </constructor-arg>&ndash;&gt;
+        &lt;!&ndash;指定第二个参数&ndash;&gt;
+        <constructor-arg index="1" name="age" type="int" value="18">
+        </constructor-arg>
+        &lt;!&ndash;参数为Dog自定义引用数据类型&ndash;&gt;
+        &lt;!&ndash;ref的值需要和dog对象的id一致&ndash;&gt;
+        &lt;!&ndash;<constructor-arg index="0" ref="d"></constructor-arg>&ndash;&gt;
+    </bean>
+    &lt;!&ndash;创建Dog对象 将该对象作为参数传入Person的有参构造&ndash;&gt;
+    <bean id="d" class="cn.cn.tedu.domain.Dog">
+    </bean>-->
+</beans>

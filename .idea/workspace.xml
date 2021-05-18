@@ -5,199 +5,426 @@
       <artifact name="ssmeasymall:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40aacbcf-1efd-4176-9685-a0b8dd3e7580" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssmeasymall_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/controller/ForwardController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/exception/MsgException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/utils/MD5Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/com/easymall/utils/VerifyCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/mappers/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/jsp/_foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/jsp/_head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/jsp/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/ehcache-core-2.6.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/css/foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/css/head.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/css/regist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/head/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/head/qr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/217.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/adv1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/adv2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/adv3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/adv4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/adv_l1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/adv_l2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/adv_l3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/banner_big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/icon_g1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/icon_g2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/icon_g3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/index/icon_g4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/login/dl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/login/dlan01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/login/dlan02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/regist/yzm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/regist/zc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/regist/zc_btn01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/img/regist/zc_btn02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/js/jquery-1.4.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/controller/ForwardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/exception/MsgException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/utils/MD5Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easymall/utils/VerifyCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mappers/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssmeasymall.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/controller/ForwardController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/exception/MsgException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/utils/MD5Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/easymall/utils/VerifyCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/mappers/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/_foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/_head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ehcache-core-2.6.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/head.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/regist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/head/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/head/qr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/217.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/adv1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/adv2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/adv3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/adv4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/adv_l1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/adv_l2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/adv_l3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/banner_big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/icon_g1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/icon_g2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/icon_g3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/index/icon_g4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/login/dl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/login/dlan01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/login/dlan02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/regist/yzm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/regist/zc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/regist/zc_btn01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/regist/zc_btn02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery-1.4.2.js" afterDir="false" />
+    <list default="true" id="40aacbcf-1efd-4176-9685-a0b8dd3e7580" name="Default Changelist" comment="v03">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/aspectjrt-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/ehcache-core-2.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/applicationContest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/cn/tedu/domain/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/cn/tedu/domain/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/cn/tedu/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/cn/tedu/domain/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/cn/tedu/test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/aspectjrt-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/ehcache-core-2.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/spring01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/applicationContext3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/cn/tedu/domain/NetConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/cn/tedu/domain/NetConnInstanceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/cn/tedu/domain/NetConnSpringFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/cn/tedu/domain/NetConnStaticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/cn/tedu/text/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/cn/tedu/text/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/cn/tedu/text/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01/src/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/aspectjrt-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/ehcache-core-2.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/spring02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/src/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/src/cn/tedu/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring02/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/aspectjrt-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/ehcache-core-2.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/spring03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/src/cn/tedu/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/aspectjrt-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/ehcache-core-2.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/spring04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/src/cn/tedu/domain/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/aspectjrt-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/ehcache-core-2.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/spring05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/src/cn/tedu/domain/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/src/cn/tedu/domain/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/src/cn/tedu/domain/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring05/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/aspectjrt-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/ehcache-core-2.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/spring06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/src/cn/tedu/domain/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/src/cn/tedu/domain/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/src/cn/tedu/domain/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring06/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/aspectjrt-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/ehcache-core-2.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/mybatis-ehcache-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/spring07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/src/cn/tedu/domain/PErson2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/src/cn/tedu/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/src/cn/tedu/domain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/src/cn/tedu/domain/pErson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring07/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/lib/commons-logging-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/spring08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/src/cn/tedu/domain/NetConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/src/cn/tedu/domain/NetConnInstanceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/src/cn/tedu/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring08/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/lib/commons-logging-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/spring09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/src/1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/src/cn/tedu/domain/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring09/src/hero.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ssmeasymall_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssmeasymall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ssmeasymall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/applicationContext.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,6 +433,9 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
@@ -213,19 +443,17 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-      </list>
-    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -234,72 +462,155 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1930" />
-    <option name="height" value="1047" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="已捆绑(Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ssmeasymall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssmeasymall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssmeasymall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssmeasymall" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1sh7CMXxzgqIWe1JZfuO95nQtuk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring09/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25827813" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\源码\ssmeasymall\web" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.tedu.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\源码\ssmeasymall\web\WEB-INF" />
-      <recent name="E:\源码\ssmeasymall\src" />
+      <recent name="D:\IdeaProjects\mytest\spring09\src" />
+      <recent name="D:\IdeaProjects\mytest\spring09" />
+      <recent name="D:\IdeaProjects\mytest\spring08\src\cn\tedu\domain" />
+      <recent name="D:\IdeaProjects\mytest\spring08" />
+      <recent name="D:\IdeaProjects\mytest\spring07" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\mytest\spring09\src\cn\tedu\test" />
+      <recent name="D:\IdeaProjects\mytest\spring09\src\cn\tedu\domain" />
+      <recent name="D:\IdeaProjects\mytest\spring08\src\cn\tedu\test" />
+      <recent name="D:\IdeaProjects\mytest\spring08\src" />
+      <recent name="D:\IdeaProjects\mytest\spring06\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Test01.test01">
+    <configuration name="Test01.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.test01 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.test01 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.test02 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 7.0.67" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.67" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="ssmeasymall:war exploded">
@@ -371,6 +682,23 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 7.0.67" />
+      <item itemvalue="JUnit.Test01.test01 (1)" />
+      <item itemvalue="JUnit.Test01.test02 (1)" />
+      <item itemvalue="JUnit.Test01.test01 (2)" />
+      <item itemvalue="JUnit.Test01.test01 (3)" />
+      <item itemvalue="JUnit.Test01.test01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test01.test01" />
+        <item itemvalue="JUnit.Test01.test01 (3)" />
+        <item itemvalue="JUnit.Test01.test01 (2)" />
+        <item itemvalue="JUnit.Test01.test02 (1)" />
+        <item itemvalue="JUnit.Test01.test01 (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -384,203 +712,141 @@
       <updated>1585098496411</updated>
       <workItem from="1585098500377" duration="2162000" />
       <workItem from="1585115988240" duration="1350000" />
+      <workItem from="1621312839664" duration="18829000" />
     </task>
+    <task id="LOCAL-00001" summary="v03">
+      <created>1621313075757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621313075757</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3512000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12540022" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5100671" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Problems" order="13" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="bottom" id="Version Control" order="16" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/css/foot.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/head.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/login.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/regist.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/head/qr.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/index/adv2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/head/logo.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/index/217.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/index/adv1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/easymall/utils/MD5Utils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/_foot.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>ssmeasymall</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.25827813" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.19772404" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="v03" />
+    <option name="LAST_COMMIT_MESSAGE" value="v03" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="102" key="#Tomcat_7.0.67" timestamp="1621313460425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="102" key="#Tomcat_7.0.67/0.0.1920.1040@0.0.1920.1040" timestamp="1621313460425" />
+    <state x="733" y="396" key="#Tomcat_Server" timestamp="1621313619210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="396" key="#Tomcat_Server/0.0.1920.1040@0.0.1920.1040" timestamp="1621313619210" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621313623660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621313623660" />
+    <state x="809" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621318952261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="809" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621318952261" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1621334495638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621334495638" />
+    <state x="681" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1621335384806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621335384806" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621327863151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621327863151" />
+    <state x="586" y="198" key="#检查" timestamp="1621318231803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#检查/0.0.1920.1040@0.0.1920.1040" timestamp="1621318231803" />
+    <state x="440" y="94" key="#项目结构" timestamp="1621318894425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1621318894425" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1621320105402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621320105402" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1621338626794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621338626794" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1621338626794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621338626794" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1621338626794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621338626794" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1621338626794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621338626794" />
+    <state width="1293" height="274" key="GridCell.Tab.1.bottom" timestamp="1621318117763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="274" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621318117763" />
+    <state width="1293" height="274" key="GridCell.Tab.1.center" timestamp="1621318117763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="274" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621318117763" />
+    <state width="1293" height="274" key="GridCell.Tab.1.left" timestamp="1621318117763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="274" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621318117763" />
+    <state width="1293" height="274" key="GridCell.Tab.1.right" timestamp="1621318117763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="274" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621318117763" />
+    <state width="1293" height="274" key="GridCell.Tab.2.bottom" timestamp="1621318117763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="274" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621318117763" />
+    <state width="1293" height="274" key="GridCell.Tab.2.center" timestamp="1621318117763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="274" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621318117763" />
+    <state width="1293" height="274" key="GridCell.Tab.2.left" timestamp="1621318117763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="274" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621318117763" />
+    <state width="1293" height="274" key="GridCell.Tab.2.right" timestamp="1621318117763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="274" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621318117763" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1621320323309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621320323309" />
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1621338764344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1621338764344" />
+    <state x="490" y="180" key="new project wizard" timestamp="1621338592711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1621338592711" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621321726790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621321726790" />
   </component>
 </project>

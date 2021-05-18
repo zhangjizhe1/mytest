@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--
+      初始化方法：在对象被创建后调用
+      销毁方法：在对象销毁之前调用
+    -->
+    <bean id="userDao" class="cn.tedu.domain.UserDao"
+        init-method="myInit" destroy-method="myDestory"
+    />
+</beans>
