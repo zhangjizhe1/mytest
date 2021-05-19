@@ -3,28 +3,33 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring01/spring01.iml" filepath="$PROJECT_DIR$/spring01/spring01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring02/spring02.iml" filepath="$PROJECT_DIR$/spring02/spring02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring03/spring03.iml" filepath="$PROJECT_DIR$/spring03/spring03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring04/spring04.iml" filepath="$PROJECT_DIR$/spring04/spring04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring05/spring05.iml" filepath="$PROJECT_DIR$/spring05/spring05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring06/spring06.iml" filepath="$PROJECT_DIR$/spring06/spring06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring07/spring07.iml" filepath="$PROJECT_DIR$/spring07/spring07.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring08/spring08.iml" filepath="$PROJECT_DIR$/spring08/spring08.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring09/spring09.iml" filepath="$PROJECT_DIR$/spring09/spring09.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring10/spring10.iml" filepath="$PROJECT_DIR$/spring10/spring10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring11/spring11.iml" filepath="$PROJECT_DIR$/spring11/spring11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring12/spring12.iml" filepath="$PROJECT_DIR$/spring12/spring12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring13/spring13.iml" filepath="$PROJECT_DIR$/spring13/spring13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring14/spring14.iml" filepath="$PROJECT_DIR$/spring14/spring14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring15/spring15.iml" filepath="$PROJECT_DIR$/spring15/spring15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring16/spring16.iml" filepath="$PROJECT_DIR$/spring16/spring16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring17/spring17.iml" filepath="$PROJECT_DIR$/spring17/spring17.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring18/spring18.iml" filepath="$PROJECT_DIR$/spring18/spring18.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring20/spring20.iml" filepath="$PROJECT_DIR$/spring20/spring20.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring21/spring21.iml" filepath="$PROJECT_DIR$/spring21/spring21.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring22/spring22.iml" filepath="$PROJECT_DIR$/spring22/spring22.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring23/spring23.iml" filepath="$PROJECT_DIR$/spring23/spring23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01-工厂模式/spring01-工厂模式.iml" filepath="$PROJECT_DIR$/spring01-工厂模式/spring01-工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02-单例多例/spring02-单例多例.iml" filepath="$PROJECT_DIR$/spring02-单例多例/spring02-单例多例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring03-懒加载/spring03-懒加载.iml" filepath="$PROJECT_DIR$/spring03-懒加载/spring03-懒加载.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04-初始化、销毁方法/spring04-初始化、销毁方法.iml" filepath="$PROJECT_DIR$/spring04-初始化、销毁方法/spring04-初始化、销毁方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring05-DI注入/spring05-DI注入.iml" filepath="$PROJECT_DIR$/spring05-DI注入/spring05-DI注入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring06-自动装配/spring06-自动装配.iml" filepath="$PROJECT_DIR$/spring06-自动装配/spring06-自动装配.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring07-注解IOC/spring07-注解IOC.iml" filepath="$PROJECT_DIR$/spring07-注解IOC/spring07-注解IOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring08-注解工厂模式/spring08-注解工厂模式.iml" filepath="$PROJECT_DIR$/spring08-注解工厂模式/spring08-注解工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring09-注解DI/spring09-注解DI.iml" filepath="$PROJECT_DIR$/spring09-注解DI/spring09-注解DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring10-注解自动装配/spring10-注解自动装配.iml" filepath="$PROJECT_DIR$/spring10-注解自动装配/spring10-注解自动装配.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring11-注解单例多例、懒加载、初始化销毁方法/spring11-注解单例多例、懒加载、初始化销毁方法.iml" filepath="$PROJECT_DIR$/spring11-注解单例多例、懒加载、初始化销毁方法/spring11-注解单例多例、懒加载、初始化销毁方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring12-老式MVC/spring12-老式MVC.iml" filepath="$PROJECT_DIR$/spring12-老式MVC/spring12-老式MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring13-IOC(DI)软件分层/spring13-IOC(DI)软件分层.iml" filepath="$PROJECT_DIR$/spring13-IOC(DI)软件分层/spring13-IOC(DI)软件分层.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring14-无代理模式/spring14-无代理模式.iml" filepath="$PROJECT_DIR$/spring14-无代理模式/spring14-无代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring15-代理设计模式/spring15-代理设计模式.iml" filepath="$PROJECT_DIR$/spring15-代理设计模式/spring15-代理设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring16-静态代理/spring16-静态代理.iml" filepath="$PROJECT_DIR$/spring16-静态代理/spring16-静态代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring17-Java动态代理/spring17-Java动态代理.iml" filepath="$PROJECT_DIR$/spring17-Java动态代理/spring17-Java动态代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring18-Cglib动态代理/spring18-Cglib动态代理.iml" filepath="$PROJECT_DIR$/spring18-Cglib动态代理/spring18-Cglib动态代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring20-前置通知/spring20-前置通知.iml" filepath="$PROJECT_DIR$/spring20-前置通知/spring20-前置通知.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring21-切入点表达式（粗）/spring21-切入点表达式（粗）.iml" filepath="$PROJECT_DIR$/spring21-切入点表达式（粗）/spring21-切入点表达式（粗）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring22-切入点表达式（细）/spring22-切入点表达式（细）.iml" filepath="$PROJECT_DIR$/spring22-切入点表达式（细）/spring22-切入点表达式（细）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring23-5种通知类型/spring23-5种通知类型.iml" filepath="$PROJECT_DIR$/spring23-5种通知类型/spring23-5种通知类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring24-注解aop/spring24-注解aop.iml" filepath="$PROJECT_DIR$/spring24-注解aop/spring24-注解aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring25-异常收集/spring25-异常收集.iml" filepath="$PROJECT_DIR$/spring25-异常收集/spring25-异常收集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring26-方法时间/spring26-方法时间.iml" filepath="$PROJECT_DIR$/spring26-方法时间/spring26-方法时间.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring27-权限拦截/spring27-权限拦截.iml" filepath="$PROJECT_DIR$/spring27-权限拦截/spring27-权限拦截.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring28-事务控制/spring28-事务控制.iml" filepath="$PROJECT_DIR$/spring28-事务控制/spring28-事务控制.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmeasymall.iml" filepath="$PROJECT_DIR$/ssmeasymall.iml" />
     </modules>
   </component>
