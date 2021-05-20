@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context
+           https://www.springframework.org/schema/context/spring-context.xsd
+           http://www.springframework.org/schema/util
+           https://www.springframework.org/schema/util/spring-util.xsd"
+>
+
+    <!--配置包扫描-->
+    <context:component-scan base-package="cn.tedu.domain"/>
+    <!--开启注解方式DI-->
+    <context:annotation-config/>
+    <!--加载额外配置信息-->
+    <context:property-placeholder location="hero.properties" file-encoding="utf-8"/>
+
+    <!--预定义数据-->
+    <util:list id="l1">
+        <value>lv1</value>
+        <value>lv2</value>
+        <value>lv3</value>
+    </util:list>
+    <util:set id="s1">
+        <value>sv1</value>
+        <value>sv2</value>
+    </util:set>
+    <util:map id="m1">
+        <entry key="mk1" value="mv1"/>
+        <entry key="mk2" value="mv2"/>
+    </util:map>
+    <util:properties id="p1">
+        <prop key="pk1">pv1</prop>
+        <prop key="pk2">pv2</prop>
+    </util:properties>
+</beans>

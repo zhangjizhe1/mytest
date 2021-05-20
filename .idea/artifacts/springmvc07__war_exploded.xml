@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springmvc07-资源跳转:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springmvc07__war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springmvc07-资源跳转/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springmvc07-资源跳转" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
