@@ -25,654 +25,147 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40aacbcf-1efd-4176-9685-a0b8dd3e7580" name="Default Changelist" comment="v04">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc01_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc02_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc03_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc04_02_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc05_03_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/MyBatisDay01_01_First.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/src/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/MyBatisDay01_02_Params.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/cn/tedu/test/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/userMapper2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/MyBatisDay01_03_CRUD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/MyBatisDay02_01_ResultMap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/cn/tedu/domain/User2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/MyBatisDay02_02_ComplexQuery.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Stu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/m2mMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/o2mMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/o2oMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/MyBatisDay02_03_Other.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/userMapper2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/MyBatisDay02_04_Cache.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/MyBatisDay02_05_Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/cn/tedu/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring30-spring配置数据源/spring30-spring配置数据源.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring31-JDBC模板类/spring31-JDBC模板类.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/spring32-声明式事务处理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/src/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/src/cn/tedu/dao/MySqlUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/src/cn/tedu/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/src/cn/tedu/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/src/cn/tedu/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring32-声明式事务处理/src/cn/tedu/web/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc01/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/springmvc03-获取参数-web对象-流对象-模型对象.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/src/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc04-获取参数02/web/my01test01.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/springmvc05-获取参数03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/src/cn/tedu/web/MyController02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/src/cn/tedu/web/MyController03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/src/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/classes/cn/tedu/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/classes/cn/tedu/web/MyController02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/classes/cn/tedu/web/MyController03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/jsp/my01/test05.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/jsp/my01/test07.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/jsp/my01test01.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/jsp/my01test02.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc05-获取参数03/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/springmvc06-作用域.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/src/cn/tedu/web/MyController02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/src/cn/tedu/web/MyController03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/src/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/classes/cn/tedu/web/MyController02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/classes/cn/tedu/web/MyController03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc06-作用域/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/springmvc07-资源跳转.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/src/cn/tedu/web/MyController02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/src/cn/tedu/web/MyController03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/src/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/classes/cn/tedu/web/MyController02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/classes/cn/tedu/web/MyController03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc07-资源跳转/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/springmvc08-文件上传.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/src/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc08-文件上传/web/upload.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/springmvc09-异常处理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/src/cn/tedu/web/MyController02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/src/cn/tedu/web/MyGlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/src/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/classes/cn/tedu/web/MyController02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/classes/cn/tedu/web/MyGlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/jsp/err01.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/jsp/g_err.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/jsp/io_err.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/jsp/mgerr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/jsp/null_err.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc09-异常处理/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/springmvc10-json格式数据.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/src/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/classes/cn/tedu/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/js/jquery-1.2.6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/test02.jsp" afterDir="false" />
+    <list default="true" id="40aacbcf-1efd-4176-9685-a0b8dd3e7580" name="Default Changelist" comment="v05">
+      <change afterPath="$PROJECT_DIR$/mybatis03-增删改查/mybatis03-增删改查.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/mybatis04-手动映射结果集.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/mybatis05-多表设计、多表查询.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/mybatis06-sql复用、别名标签.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis07-缓存设置/mybatis07-缓存设置.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/mybatis08-基于接口开发.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_01_First/SpringDay08_SpringJDBC_01_First.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/spring29-C3P0配置JDBC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_01_First/lib/c3p0-0.9.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_01_First/lib/mysql-connector-java-5.1.38-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/mysql-connector-java-5.1.38-bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_01_First/src/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/src/c3p0-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_01_First/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/SpringDay08_SpringJDBC_02_DataSource.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/aopalliance-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/aspectjrt-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/aspectjweaver-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/c3p0-0.9.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/commons-logging-1.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/mysql-connector-java-5.1.38-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/mysql-connector-java-5.1.38-bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/spring-aop-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/spring-aspects-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/spring-beans-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/spring-context-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/spring-context-support-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/spring-core-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/spring-expression-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/lib/spring-test-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring29-C3P0配置JDBC/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_02_DataSource/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/src/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/SpringDay08_SpringJDBC_03_JdbcTemplate.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/aopalliance-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/aspectjrt-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/aspectjweaver-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/c3p0-0.9.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/commons-logging-1.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/mysql-connector-java-5.1.38-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/mysql-connector-java-5.1.38-bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-aop-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-aspects-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-beans-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-context-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-context-support-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-core-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-expression-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-jdbc-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-test-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring30-spring配置数据源/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/lib/spring-tx-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/src/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_03_JdbcTemplate/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/src/cn/tedu/test/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_04_Trans/SpringDay08_SpringJDBC_04_Trans.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_04_Trans/lib/aopalliance-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_04_Trans/lib/aspectjrt-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_04_Trans/lib/aspectjweaver-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_04_Trans/lib/c3p0-0.9.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_04_Trans/lib/commons-logging-1.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_04_Trans/lib/mysql-connector-java-5.1.38-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/mysql-connector-java-5.1.38-bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDay08_SpringJDBC_04_Trans/lib/spring-aop-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/SpringMVCDay01_01_First.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc04-获取参数02/springmvc04-获取参数02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/src/cn/tedu/web/MyController01.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/src/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/src/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/classes/cn/tedu/web/MyController01.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/jsp/my01test01.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/jsp/my01test01.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/aspectjrt-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/c3p0-0.9.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/commons-io-2.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/commons-logging-1.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/jstl-api-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/jstl-impl-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/log4j.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/slf4j-api-1.5.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/slf4j-log4j12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring31-JDBC模板类/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/lib/standard-1.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_01_First/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/SpringMVCDay01_02_RequestMapping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/springmvc01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/src/cn/tedu/web/MyController01.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/src/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/src/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/classes/cn/tedu/web/MyController01.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/aspectjrt-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/c3p0-0.9.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/commons-io-2.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/commons-logging-1.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/jstl-api-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/jstl-impl-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/log4j.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/slf4j-api-1.5.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/slf4j-log4j12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring32-声明式事务处理/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/lib/standard-1.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_02_RequestMapping/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/SpringMVCDay01_03_ParamType.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/springmvc02-注解处理器映射.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/src/cn/tedu/domain/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/src/cn/tedu/domain/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/src/cn/tedu/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/src/cn/tedu/domain/User2.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/src/cn/tedu/domain/User2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/src/cn/tedu/web/MyController01.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/src/cn/tedu/web/MyController01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/src/cn/tedu/web/MyController02.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/src/cn/tedu/web/MyController02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/src/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/src/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/classes/cn/tedu/domain/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/classes/cn/tedu/domain/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/classes/cn/tedu/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/classes/cn/tedu/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/classes/cn/tedu/domain/User2.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/classes/cn/tedu/domain/User2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/classes/cn/tedu/web/MyController01.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/classes/cn/tedu/web/MyController01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/classes/cn/tedu/web/MyController02.class" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/classes/cn/tedu/web/MyController02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/jsp/my01test03_1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/jsp/my01test03_1.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/jsp/my01test03_2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/jsp/my01test03_2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/jsp/my01test03_3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/jsp/my01test03_3.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/jsp/my01test03_4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/jsp/my01test03_4.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/aspectjrt-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/aspectjrt-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/c3p0-0.9.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/commons-io-2.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/commons-logging-1.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/jstl-api-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/jstl-impl-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/log4j.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/slf4j-api-1.5.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/slf4j-log4j12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/slf4j-log4j12.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc02-注解处理器映射/web/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-context-support-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc01/web/WEB-INF/lib/spring-test-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/lib/standard-1.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc10-json格式数据/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVCDay01_03_ParamType/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring27-权限拦截/src/cn/tedu/web/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring27-权限拦截/src/cn/tedu/web/UserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring28-事务控制/src/cn/tedu/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring28-事务控制/src/cn/tedu/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssmeasymall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ssmeasymall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/MyBatisDay01_01_First.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/mybatis01-搭建.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/asm-3.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/asm-3.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/cglib-2.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/javassist-3.17.1-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/log4j-1.2.17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/mybatis-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/slf4j-api-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/src/cn/tedu/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/src/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/src/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_01_First/src/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-搭建/src/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/MyBatisDay01_02_Params.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/mybatis02-值传递.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/asm-3.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/asm-3.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/cglib-2.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/javassist-3.17.1-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/log4j-1.2.17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/mybatis-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/slf4j-api-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/src/cn/tedu/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/cn/tedu/test/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/src/cn/tedu/test/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/src/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/src/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_02_Params/src/userMapper2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis02-值传递/src/userMapper2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/MyBatisDay01_03_CRUD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/asm-3.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/asm-3.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/cglib-2.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/javassist-3.17.1-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/log4j-1.2.17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/mybatis-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/slf4j-api-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/src/cn/tedu/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/src/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay01_03_CRUD/src/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis03-增删改查/src/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/MyBatisDay02_01_ResultMap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/asm-3.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/asm-3.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/cglib-2.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/javassist-3.17.1-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/log4j-1.2.17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/mybatis-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/slf4j-api-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/src/cn/tedu/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/cn/tedu/domain/User2.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/src/cn/tedu/domain/User2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/src/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_01_ResultMap/src/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis04-手动映射结果集/src/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/MyBatisDay02_02_ComplexQuery.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/asm-3.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/asm-3.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/cglib-2.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/javassist-3.17.1-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/log4j-1.2.17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/mybatis-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/slf4j-api-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/cn/tedu/domain/Dept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/cn/tedu/domain/Emp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/cn/tedu/domain/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/cn/tedu/domain/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Stu.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/cn/tedu/domain/Stu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/domain/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/cn/tedu/domain/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/m2mMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/m2mMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/o2mMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/o2mMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/o2oMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/o2oMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_02_ComplexQuery/src/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/src/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/MyBatisDay02_03_Other.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/asm-3.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/asm-3.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/cglib-2.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/javassist-3.17.1-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/log4j-1.2.17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/mybatis-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/slf4j-api-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/src/cn/tedu/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/src/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/src/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_03_Other/src/userMapper2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/src/userMapper2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/MyBatisDay02_04_Cache.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/asm-3.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/asm-3.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/cglib-2.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/javassist-3.17.1-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/log4j-1.2.17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/mybatis-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/slf4j-api-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/src/cn/tedu/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/src/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_04_Cache/src/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis07-缓存设置/src/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/MyBatisDay02_05_Interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/asm-3.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/asm-3.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/cglib-2.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/javassist-3.17.1-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/log4j-1.2.17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/mybatis-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/mysql-connector-java-5.1.10-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/slf4j-api-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/cn/tedu/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/src/cn/tedu/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/cn/tedu/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/src/cn/tedu/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/cn/tedu/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/src/cn/tedu/test/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/src/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatisDay02_05_Interface/src/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis08-基于接口开发/src/userMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -749,7 +242,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/SpringDay03_02_DI_Anno_Other/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springmvc10-json格式数据" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis08-基于接口开发" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="模块" />
@@ -762,11 +255,11 @@
       <recent name="cn.tedu.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IdeaProjects\mytest\springmvc10-json格式数据" />
-      <recent name="D:\IdeaProjects\mytest\springmvc09-异常处理" />
-      <recent name="D:\IdeaProjects\mytest\springmvc08-文件上传" />
-      <recent name="D:\IdeaProjects\mytest\springmvc07-资源跳转" />
-      <recent name="D:\IdeaProjects\mytest\springmvc06-作用域" />
+      <recent name="D:\IdeaProjects\mytest\mybatis08-基于接口开发" />
+      <recent name="D:\IdeaProjects\mytest\mybatis07-缓存设置" />
+      <recent name="D:\IdeaProjects\mytest\mybatis06-sql复用、别名标签" />
+      <recent name="D:\IdeaProjects\mytest\mybatis05-多表设计、多表查询" />
+      <recent name="D:\IdeaProjects\mytest\mybatis04-手动映射结果集" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.tedu.test" />
@@ -780,9 +273,9 @@
       <recent name="D:\IdeaProjects\mytest\spring08\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.67">
-    <configuration name="Test01.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring31-JDBC模板类" />
+  <component name="RunManager" selected="JUnit.Test01 (1)">
+    <configuration name="Test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis02-值传递" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.tedu.test.*" />
@@ -791,15 +284,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="cn.tedu.test" />
       <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
-      <option name="METHOD_NAME" value="delete" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01.query2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring31-JDBC模板类" />
+    <configuration name="Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis01-搭建" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.tedu.test.*" />
@@ -808,25 +300,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="cn.tedu.test" />
       <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
-      <option name="METHOD_NAME" value="query2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BSP.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test01.query3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring31-JDBC模板类" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.tedu.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.tedu.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
-      <option name="METHOD_NAME" value="query3" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
@@ -843,6 +317,23 @@
       <option name="PACKAGE_NAME" value="cn.tedu.test" />
       <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
       <option name="METHOD_NAME" value="query4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis01-搭建" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.Test01" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -895,20 +386,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Test01.delete" />
-      <item itemvalue="JUnit.Test01.query2" />
-      <item itemvalue="JUnit.Test01.query3" />
       <item itemvalue="JUnit.Test01.query4" />
       <item itemvalue="JUnit.Test01.test01" />
       <item itemvalue="Tomcat Server.Tomcat 7.0.67" />
+      <item itemvalue="JUnit.Test01.test01 (1)" />
+      <item itemvalue="JUnit.Test01" />
+      <item itemvalue="JUnit.Test01 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test01 (1)" />
+        <item itemvalue="JUnit.Test01.test01 (1)" />
+        <item itemvalue="JUnit.Test01" />
         <item itemvalue="JUnit.Test01.test01" />
         <item itemvalue="JUnit.Test01.query4" />
-        <item itemvalue="JUnit.Test01.query3" />
-        <item itemvalue="JUnit.Test01.query2" />
-        <item itemvalue="JUnit.Test01.delete" />
       </list>
     </recent_temporary>
   </component>
@@ -926,7 +417,7 @@
       <workItem from="1585115988240" duration="1350000" />
       <workItem from="1621312839664" duration="21556000" />
       <workItem from="1621394607343" duration="21255000" />
-      <workItem from="1621482604444" duration="18210000" />
+      <workItem from="1621482604444" duration="21196000" />
     </task>
     <task id="LOCAL-00001" summary="v03">
       <created>1621313075757</created>
@@ -970,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621430055853</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="v05">
+      <created>1621504973248</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621504973249</updated>
+    </task>
+    <task id="LOCAL-00008" summary="v05">
+      <created>1621505019438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621505019438</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -992,7 +497,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="v03" />
     <MESSAGE value="v04" />
-    <option name="LAST_COMMIT_MESSAGE" value="v04" />
+    <MESSAGE value="v05" />
+    <option name="LAST_COMMIT_MESSAGE" value="v05" />
   </component>
   <component name="WindowStateProjectService">
     <state x="682" y="102" key="#Tomcat_7.0.67" timestamp="1621313460425">
@@ -1051,54 +557,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621503061398" />
-    <state width="1293" height="274" key="GridCell.Tab.0.bottom" timestamp="1621503107445">
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1621509503127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.0.center" timestamp="1621503107445">
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621509503127" />
+    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1621509503127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.0.left" timestamp="1621503107445">
+    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621509503127" />
+    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1621509503127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.0.right" timestamp="1621503107445">
+    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621509503127" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1621509503127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.1.bottom" timestamp="1621503107445">
+    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621509503127" />
+    <state width="636" height="274" key="GridCell.Tab.1.bottom" timestamp="1621504980260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.1.center" timestamp="1621503107445">
+    <state width="636" height="274" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621504980260" />
+    <state width="636" height="274" key="GridCell.Tab.1.center" timestamp="1621504980260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.1.left" timestamp="1621503107445">
+    <state width="636" height="274" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621504980260" />
+    <state width="636" height="274" key="GridCell.Tab.1.left" timestamp="1621504980260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.1.right" timestamp="1621503107445">
+    <state width="636" height="274" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621504980260" />
+    <state width="636" height="274" key="GridCell.Tab.1.right" timestamp="1621504980260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.2.bottom" timestamp="1621503107445">
+    <state width="636" height="274" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621504980260" />
+    <state width="636" height="274" key="GridCell.Tab.2.bottom" timestamp="1621504980260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.2.center" timestamp="1621503107445">
+    <state width="636" height="274" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621504980260" />
+    <state width="636" height="274" key="GridCell.Tab.2.center" timestamp="1621504980260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.2.left" timestamp="1621503107445">
+    <state width="636" height="274" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621504980260" />
+    <state width="636" height="274" key="GridCell.Tab.2.left" timestamp="1621504980260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
-    <state width="1293" height="274" key="GridCell.Tab.2.right" timestamp="1621503107445">
+    <state width="636" height="274" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621504980260" />
+    <state width="636" height="274" key="GridCell.Tab.2.right" timestamp="1621504980260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1293" height="274" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621503107445" />
+    <state width="636" height="274" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621504980260" />
     <state x="614" y="223" width="797" height="594" key="NewModule_or_Project.wizard" timestamp="1621395706908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -1111,14 +617,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621395743968" />
-    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1621496364551">
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1621510214805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1621496364551" />
-    <state x="328" y="120" key="new project wizard" timestamp="1621504795178">
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1621510214805" />
+    <state x="328" y="120" key="new project wizard" timestamp="1621510186959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="328" y="120" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1621504795178" />
+    <state x="328" y="120" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1621510186959" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621321726790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

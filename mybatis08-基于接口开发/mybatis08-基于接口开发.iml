@@ -8,20 +8,13 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="asm-3.3.1">
+      <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/asm-3.3.1.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/cglib-2.2.2.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/commons-logging-1.1.1.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/javassist-3.17.1-GA.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/log4j-1.2.17.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/mybatis-3.2.2.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/mysql-connector-java-5.1.10-bin.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/slf4j-api-1.7.5.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/slf4j-log4j12-1.7.5.jar!/" />
+          <root url="file://$MODULE_DIR$/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">

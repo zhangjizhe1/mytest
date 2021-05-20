@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis01-搭建/mybatis01-搭建.iml" filepath="$PROJECT_DIR$/mybatis01-搭建/mybatis01-搭建.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis02-值传递/mybatis02-值传递.iml" filepath="$PROJECT_DIR$/mybatis02-值传递/mybatis02-值传递.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis03-增删改查/mybatis03-增删改查.iml" filepath="$PROJECT_DIR$/mybatis03-增删改查/mybatis03-增删改查.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis04-手动映射结果集/mybatis04-手动映射结果集.iml" filepath="$PROJECT_DIR$/mybatis04-手动映射结果集/mybatis04-手动映射结果集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis05-多表设计、多表查询/mybatis05-多表设计、多表查询.iml" filepath="$PROJECT_DIR$/mybatis05-多表设计、多表查询/mybatis05-多表设计、多表查询.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis06-sql复用、别名标签/mybatis06-sql复用、别名标签.iml" filepath="$PROJECT_DIR$/mybatis06-sql复用、别名标签/mybatis06-sql复用、别名标签.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis07-缓存设置/mybatis07-缓存设置.iml" filepath="$PROJECT_DIR$/mybatis07-缓存设置/mybatis07-缓存设置.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis08-基于接口开发/mybatis08-基于接口开发.iml" filepath="$PROJECT_DIR$/mybatis08-基于接口开发/mybatis08-基于接口开发.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring01-工厂模式/spring01-工厂模式.iml" filepath="$PROJECT_DIR$/spring01-工厂模式/spring01-工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring02-单例多例/spring02-单例多例.iml" filepath="$PROJECT_DIR$/spring02-单例多例/spring02-单例多例.iml" />
