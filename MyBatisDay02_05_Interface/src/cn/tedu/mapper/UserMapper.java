@@ -4,7 +4,6 @@ import cn.tedu.domain.User;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
-import java.util.Map;
 
 /**
  * 接口的全路径应该等同于映射文件的名称空间

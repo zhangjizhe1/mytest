@@ -1,6 +1,5 @@
 package cn.tedu.test;
 
-import cn.tedu.domain.*;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
