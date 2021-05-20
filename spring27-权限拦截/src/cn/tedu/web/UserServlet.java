@@ -8,7 +8,7 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class UserServlet {
     //当前用户角色
-    public static Role role = Role.ADMIN;
+    public static Role role = Role.USER;
 
     @Autowired
     private UserService userService = null;

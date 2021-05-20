@@ -30,6 +30,20 @@
       <module fileurl="file://$PROJECT_DIR$/spring26-方法时间/spring26-方法时间.iml" filepath="$PROJECT_DIR$/spring26-方法时间/spring26-方法时间.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring27-权限拦截/spring27-权限拦截.iml" filepath="$PROJECT_DIR$/spring27-权限拦截/spring27-权限拦截.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring28-事务控制/spring28-事务控制.iml" filepath="$PROJECT_DIR$/spring28-事务控制/spring28-事务控制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring29-C3P0配置JDBC/spring29-C3P0配置JDBC.iml" filepath="$PROJECT_DIR$/spring29-C3P0配置JDBC/spring29-C3P0配置JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring30-spring配置数据源/spring30-spring配置数据源.iml" filepath="$PROJECT_DIR$/spring30-spring配置数据源/spring30-spring配置数据源.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring31-JDBC模板类/spring31-JDBC模板类.iml" filepath="$PROJECT_DIR$/spring31-JDBC模板类/spring31-JDBC模板类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring32-声明式事务处理/spring32-声明式事务处理.iml" filepath="$PROJECT_DIR$/spring32-声明式事务处理/spring32-声明式事务处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc01/springmvc01.iml" filepath="$PROJECT_DIR$/springmvc01/springmvc01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc02-注解处理器映射/springmvc02-注解处理器映射.iml" filepath="$PROJECT_DIR$/springmvc02-注解处理器映射/springmvc02-注解处理器映射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/springmvc03-获取参数-web对象-流对象-模型对象.iml" filepath="$PROJECT_DIR$/springmvc03-获取参数-web对象-流对象-模型对象/springmvc03-获取参数-web对象-流对象-模型对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc04-获取参数02/springmvc04-获取参数02.iml" filepath="$PROJECT_DIR$/springmvc04-获取参数02/springmvc04-获取参数02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc05-获取参数03/springmvc05-获取参数03.iml" filepath="$PROJECT_DIR$/springmvc05-获取参数03/springmvc05-获取参数03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc06-作用域/springmvc06-作用域.iml" filepath="$PROJECT_DIR$/springmvc06-作用域/springmvc06-作用域.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc07-资源跳转/springmvc07-资源跳转.iml" filepath="$PROJECT_DIR$/springmvc07-资源跳转/springmvc07-资源跳转.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc08-文件上传/springmvc08-文件上传.iml" filepath="$PROJECT_DIR$/springmvc08-文件上传/springmvc08-文件上传.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc09-异常处理/springmvc09-异常处理.iml" filepath="$PROJECT_DIR$/springmvc09-异常处理/springmvc09-异常处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc10-json格式数据/springmvc10-json格式数据.iml" filepath="$PROJECT_DIR$/springmvc10-json格式数据/springmvc10-json格式数据.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmeasymall.iml" filepath="$PROJECT_DIR$/ssmeasymall.iml" />
     </modules>
   </component>
